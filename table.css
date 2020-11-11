@@ -1,0 +1,6 @@
+table{border-collapse:collapse;}
+th{font-weight:normal; border:5.5px dashed red; background-color: orange;}
+td{border:5.5px dashed red;}
+
+/*th{border:thick dashed red; background-color: orange;}
+td{border:thick dashed red;}*/
